@@ -1,6 +1,10 @@
-streamlit
 seaborn
 pandas
 numpy
 matplotlib
 scikit-learn
+streamlit
+tensorflow
+opencv-python
+plotly
+Pillow
